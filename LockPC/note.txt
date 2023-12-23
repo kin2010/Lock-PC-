@@ -1,0 +1,1 @@
+pyuic5 -x ds.ui -o app.py
